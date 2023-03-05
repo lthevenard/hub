@@ -1,32 +1,33 @@
- /**************************************
-STATIC LAYOUT CSS
-**************************************/
+
 .wrapper {
     width: 900px;
     margin: 0 auto;
 }
 
-header {
-    width: 900px;
+header { width: 900px; }
+
+
+em {
+    font-size: 200%;
+    font-style: normal;
 }
 
 button {
-    font-family: Courir, monospace;
+    font-family: Courier, monospace;
     font-size: 200%;
     background-color: white;
     border: 1px solid white;
 }
 
+button:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 button:active { background-color: lightgray;}
 
-section {
-    width: 900px;
-} 
+section { width: 900px; } 
  
-
-/**************************************
-CSS TO MAKE THE EXAMPLE LOOK PRETTY
-**************************************/
 
 *, *:before, *:after {
     -moz-box-sizing: border-box;
@@ -64,7 +65,7 @@ h1 {
     font-variant: small-caps; 
 }
 
-h2 { font-size: 150%; }
+
 
 h3 {
     /* font-family: 'Arial Narrow Bold', sans-serif; */
@@ -73,8 +74,14 @@ h3 {
     color: lightgray;
 }
 
-a:visited { color: green; } 
-a:hover { color: rgb(181, 210, 239); } 
+a { text-decoration: none; }
+
+a:link { color: rgb(51, 130, 208); } 
+
+a:visited { color: rgb(51, 130, 208); } 
+
+a:hover { color: rgb(204, 227, 249); } 
+
 a:active { color: lightgray; }
 
 ul.items {
