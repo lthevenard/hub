@@ -7,7 +7,7 @@
 header { width: 900px; }
 
 
-em {
+span.tog {
     font-size: 200%;
     font-style: normal;
 }
