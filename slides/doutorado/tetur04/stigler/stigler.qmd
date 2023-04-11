@@ -1,0 +1,340 @@
+---
+title: "Stigler - exemplos ilustrativos"
+format: revealjs
+execute:
+  echo: false
+---
+
+# Regulação do peso de caminhões
+
+## Dados Tabulares {.smaller}
+
+::: nonincremental
+-   cada **linha** é uma observação,
+-   cada **coluna** é uma variável.
+:::
+
+<br/>
+
+```{r}
+library(tidyverse)
+library(kableExtra)
+
+data_stigler <- readRDS("data_stigler.rds")
+
+data_stigler$trucks %>% 
+  head() %>% 
+  kable("html") %>%
+  kable_styling(full_width = FALSE)
+```
+
+
+
+## Distribuições
+
+**Variáveis de resposta**: peso máximo dos caminhões de 4 rodas e de 6 rodas.
+
+<center>
+
+```{r}
+
+earth_palette <- c(
+  "#8D8741", "#659DBD", "#DAAD86", "#BC986A", "#FBEEC1"
+)
+
+data_stigler$trucks %>% 
+  pivot_longer(cols = c("maxlbs_4w", "maxlbs_6w")) %>%
+  mutate(var = ifelse(str_detect(name, "4"), "Caminhões de 4 Rodas", "Caminhões de 6 Rodas")) %>% 
+  ggplot(aes(x = value)) +
+  geom_histogram(fill = earth_palette[[2]], 
+                 bins = 8) +
+  labs(y = "Número de casos (estados)",
+       x = "\nPeso máximo dos caminhões, em libras (lbs)") +
+  facet_wrap(~var, scales = "free_x")
+```
+
+</center>
+
+## Distribuições
+
+**Variáveis de resposta**: peso máximo dos caminhões de 4 rodas e de 6 rodas.
+
+<center>
+
+```{r}
+
+data_stigler$trucks %>% 
+  pivot_longer(cols = c("maxlbs_4w", "maxlbs_6w")) %>%
+  mutate(var = ifelse(str_detect(name, "4"), "Caminhões de 4 Rodas", "Caminhões de 6 Rodas")) %>% 
+  ggplot(aes(x = var, y = value)) +
+  geom_boxplot(color = earth_palette[[2]], 
+                 fill = "white", size = 1.2) +
+  stat_summary(fun = mean, color = "red", fill = "red", shape = 23, size = 1.2) +
+  labs(y = "Peso máximo dos caminhões, em libras (lbs)",
+       x = "\nTipo de caminhão")
+```
+
+</center>
+
+
+## Modelo linear {.smaller}
+
+<br/>
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*TperAlf \,\, + \,\, \beta_2*HaulLen \,\, + \,\, \beta_3*HwHts$$
+<br/>
+**Variáveis explicativas**: Stigler utiliza três variáveis para explicar a regulação de peso de caminhões em cada estado: 
+
+- o número de caminhões para cada mil membros da força de trabalho agrícola (TperAlf),  
+- a distância média dos trajetos das linhas de trem existentes (HaulLen), e 
+- a porcentagem das estradas existentes que possuem superfície de alta qualidade - asfaltadas (HwHts).
+
+
+## Decompondo as correlações - TperAlf
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*TperAlf$$
+
+<center>
+
+```{r}
+data_stigler$trucks %>% 
+  ggplot(aes(y = maxlbs_4w, x = TperAlf)) +
+  geom_point(color = earth_palette[[2]], size = 3) +
+  labs(x = "\nNo. de caminhões p. 1000 membros da força de trabalho agrícola", y = "Peso máximo de caminhões de 4 rodas") +
+  theme_minimal()
+```
+
+</center>
+
+## Decompondo as correlações - TperAlf
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*TperAlf$$
+<center>
+
+```{r}
+data_stigler$trucks %>% 
+  ggplot(aes(y = maxlbs_4w, x = TperAlf)) +
+  geom_point(color = earth_palette[[2]], size = 3) +
+  labs(x = "\nNo. de caminhões p. 1000 membros da força de trabalho agrícola", y = "Peso máximo de caminhões de 4 rodas") +
+  geom_smooth(method = "lm", color = "red", se = FALSE) +
+  theme_minimal()
+```
+
+</center>
+
+
+## Decompondo as correlações - TperAlf
+
+<br/>
+
+<center>
+
+```{r}
+model_TperAlf <- lm(maxlbs_4w ~ TperAlf, data = data_stigler$trucks)
+summary(model_TperAlf)
+```
+
+</center>
+
+## Decompondo as correlações - HaulLen
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*HaulLen$$
+<center>
+
+```{r}
+data_stigler$trucks %>% 
+  ggplot(aes(y = maxlbs_6w, x = HaulLen)) +
+  geom_point(color = earth_palette[[2]], size = 3) +
+  labs(x = "\nDistância média dos percursos de linhas ferroviárias (milhas)", y = "Peso máximo de caminhões de 6 rodas") +
+  theme_minimal()
+```
+
+</center>
+
+## Decompondo as correlações - HaulLen
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*HaulLen$$
+<center>
+
+```{r}
+data_stigler$trucks %>% 
+  ggplot(aes(y = maxlbs_6w, x = HaulLen)) +
+  geom_point(color = earth_palette[[2]], size = 3) +
+  labs(x = "\nDistância média dos percursos de linhas ferroviárias (milhas)", y = "Peso máximo de caminhões de 6 rodas") +
+  geom_smooth(method = "lm", color = "red", se = FALSE) +
+  theme_minimal()
+```
+
+</center>
+
+## Decompondo as correlações - HaulLen
+
+<br/>
+
+<center>
+
+```{r}
+model_HaulLen <- lm(maxlbs_6w ~ HaulLen, data = data_stigler$trucks)
+summary(model_HaulLen)
+```
+
+</center>
+
+## Decompondo as correlações - HwHts {.smaller}
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*HwHts$$
+<center>
+
+```{r}
+data_stigler$trucks %>% 
+  ggplot(aes(y = maxlbs_4w, x = HwHts)) +
+  geom_point(color = earth_palette[[2]], size = 3) +
+  labs(x = "\nPorcentagem das estradas com pista de alta qualidade", y = "Peso máximo de caminhões de 4 rodas") +
+  theme_minimal()
+```
+
+</center>
+
+## Decompondo as correlações - HwHts {.smaller}
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*HwHts$$
+<center>
+
+```{r}
+data_stigler$trucks %>% 
+  ggplot(aes(y = maxlbs_4w, x = HwHts)) +
+  geom_point(color = earth_palette[[2]], size = 3) +
+  labs(x = "\nPorcentagem das estradas com pista de alta qualidade", y = "Peso máximo de caminhões de 4 rodas") +
+  geom_smooth(method = "lm", color = "red", se = FALSE) +
+  theme_minimal()
+```
+
+</center>
+
+## Decompondo as correlações - HwHts
+
+<br/>
+
+<center>
+
+```{r}
+model_HwHts <- lm(maxlbs_4w ~ HwHts, data = data_stigler$trucks)
+summary(model_HwHts)
+```
+
+</center>
+
+
+## Voltando ao modelo completo {.smaller}
+
+<center>
+
+$$max_{lbs} = \beta_0 \,\, + \,\, \beta_1*TperAlf \,\, + \,\, \beta_2*HaulLen \,\, + \,\, \beta_3*HwHts$$
+
+
+```{r}
+model_full <- lm(maxlbs_4w ~ TperAlf + HaulLen + HwHts, data = data_stigler$trucks)
+summary(model_full)
+```
+
+</center>
+
+# Licenças para o exercício de profissões
+
+## Tabela das ocupações {.smaller}
+
+<br/>
+
+```{r}
+data_stigler$occupations %>% 
+  head(8) %>% 
+  kable("html") %>%
+  kable_styling(full_width = FALSE)
+```
+
+
+## Idade Mediana
+
+<br/>
+
+<center>
+
+```{r}
+data_stigler$occupations %>% 
+  mutate(licenca = ifelse(str_detect(licensing, "^licensed$"), "Licença é exigida", "Licença parcial ou sem licença")) %>% 
+  ggplot(aes(x = licenca, y = MedianAge, color = licenca)) +
+  geom_boxplot(fill = "#ededed", size = 1.2) +
+  scale_color_manual(values = c("#4e38f5", "#4db86a")) +
+  labs(y = "Idade mediana dos profissionais",
+       x = "",
+       color = "É exigida licença? ") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+</center>
+
+## Renda Mediana
+
+<br/>
+
+<center>
+
+```{r}
+data_stigler$occupations %>% 
+  mutate(licenca = ifelse(str_detect(licensing, "^licensed$"), "Licença é exigida", "Licença parcial ou sem licença")) %>% 
+  ggplot(aes(x = licenca, y = MedianEarnings, color = licenca)) +
+  geom_boxplot(fill = "#ededed", size = 1.2) +
+  scale_color_manual(values = c("#4e38f5", "#4db86a")) +
+  labs(y = "Renda mediana dos profissionais",
+       x = "",
+       color = "É exigida licença? ") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+</center>
+
+## Instabilidade de pertencimento
+
+<br/>
+
+<center>
+
+```{r}
+data_stigler$occupations %>% 
+  mutate(licenca = ifelse(str_detect(licensing, "^licensed$"), "Licença é exigida", "Licença parcial ou sem licença")) %>% 
+  ggplot(aes(x = licenca, y = Instability, color = licenca)) +
+  geom_boxplot(fill = "#ededed", size = 1.2) +
+  scale_color_manual(values = c("#4e38f5", "#4db86a")) +
+  labs(y = "Índice de instabilidade de pertencimento",
+       x = "",
+       color = "É exigida licença? ") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+</center>
+
+
+## Percentual em grandes cidades
+
+<br/>
+
+<center>
+
+```{r}
+data_stigler$occupations %>% 
+  mutate(licenca = ifelse(str_detect(licensing, "^licensed$"), "Licença é exigida", "Licença parcial ou sem licença")) %>% 
+  ggplot(aes(x = licenca, y = InBigCities, color = licenca)) +
+  geom_boxplot(fill = "#ededed", size = 1.2) +
+  scale_color_manual(values = c("#4e38f5", "#4db86a")) +
+  labs(y = "Percentual dos profissionais em grandes cidades",
+       x = "",
+       color = "É exigida licença? ") +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+</center>
+

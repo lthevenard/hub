@@ -1,0 +1,21 @@
+occupation,licensing,MedianAge,MedianEducation,MedianEarnings,Instability,NotSelfEmployed,InBigCities,OfLaborForce
+architects,licensed,41.7,16.8,9090,0.012,57.8,44.1,0.045
+chiropractors,licensed,46.5,16.4,6360,0.053,5.8,30.8,0.02
+dentists,licensed,45.9,17.3,12200,0.016,9.4,34.5,0.128
+embalmers,licensed,43.5,13.4,5990,0.13,52.8,30.2,0.055
+lawyers,licensed,45.3,17.4,10800,0.041,35.8,43.1,0.308
+nurses,licensed,39.1,13.2,3850,0.291,91,40.6,0.868
+optometrists,licensed,41.6,17,8480,0.249,17.5,34.5,0.024
+pharmacists,licensed,44.9,16.2,7230,0.119,62.3,40,0.136
+physicians,licensed,42.8,17.5,14200,0.015,35,44.7,0.339
+veterinarians,licensed,39.2,17.4,9210,0.169,29.5,14.4,0.023
+accountants,partially licensed,40.4,14.9,6450,0.052,88.1,43.5,0.698
+engineers,partially licensed,38.3,16.2,8490,0.023,96.8,31.6,1.279
+elem. school teachers,partially licensed,43.1,16.5,4710,NA,99.1,18.8,1.482
+artists,unlicensed,38,14.2,5920,0.103,77.3,45.7,0.154
+clergymen,unlicensed,43.3,17,4120,0.039,89,27.2,0.295
+college teachers,unlicensed,40.3,17.4,7500,0.085,99.2,36,0.261
+draftsmen,unlicensed,31.2,12.9,5990,0.098,98.6,40.8,0.322
+reporters and editors,unlicensed,39.4,15.5,6120,0.138,93.9,43.3,0.151
+musicians,unlicensed,40.2,14.8,3240,0.081,65.5,37.7,0.289
+natural scientists,unlicensed,35.9,16.8,7490,0.264,96.3,32.7,0.221

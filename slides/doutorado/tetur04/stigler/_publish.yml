@@ -1,0 +1,4 @@
+- source: stigler.qmd
+  quarto-pub:
+    - id: 7ee4f3ce-bc13-4806-9484-da2ca016ef90
+      url: 'https://quartopub.com/sites/lthevenard/stigler---exemplos-ilustrativos'
