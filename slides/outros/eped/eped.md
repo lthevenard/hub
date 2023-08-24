@@ -119,7 +119,7 @@ td.player1 {
 
 ![bg](section_bg.png)
 
-# Título 
+# Procedimentos, controle e autonomia das decisões regulatórias
 **XII EPED (2023) – GT-30**
 Lucas Thevenard
 
