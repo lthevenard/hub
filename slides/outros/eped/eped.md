@@ -142,6 +142,15 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 ---
 
 ## Tese do comportamento estratégico 
-- 
+* Agências têm interesses regulatórios que antecedem o processo decisório.
+* Agências têm recursos limitados e o processo decisório é custoso.
+* Agências querem garantir o sucesso do processo decisório para preservar sua legimitidade institucional e otimizar seus recursos.
+  - Para isso elas exercem controles específicos sobre seus procedimentos.
+* **Consequências observáveis**:
+  - Variabilidade nas práticas procedimentais das agências.
+  - Processos com maior risco de falhas (polêmicos) serão mais contolados.
+  * Objetivo: identificar indícios iniciais da primeira consequência na PS.
 
 ---
+
+## Recorte
