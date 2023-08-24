@@ -156,6 +156,32 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 ## Recorte
 * Agências reguladoras independentes de transportes em nível federal: ANTT, ANTAC, ANAC
 * Participação Social
-  - Consultas e audiências públicas
-  - Regimes muito similares ()
-  - Existem ças relevantes intra e entre as agências?
+  - Consultas e audiências públicas até 2022
+  - Regimes muito similares
+    - Lei nº 10.233/01, Lei nº 11.182/05, Lei nº 13.848/19
+  - Existem diferenças relevantes intra e entre as agências?
+
+---
+
+
+<div style="margin: auto;">
+
+![w:950](total.png)
+
+</div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](evolution.png)
+
+</div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](total.png)
+
+</div>
