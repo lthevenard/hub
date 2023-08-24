@@ -126,10 +126,21 @@ Lucas Thevenard
 ---
 <!-- 
 paginate: true 
-header: Título
-footer: lucas.gomes@fgv.br | DD/MM/AAAA
+header: Procedimentos, controle e autonomia das decisões regulatórias
+footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 -->
 
-## Meu slide
-- item 1
-- item 2
+## Problema de pesquisa
+* Agenda de melhoria regulatória:
+  - Procedimentalização do processo decisório,
+  - Aumentar a racionalidade das escolhas
+  - Agendas regulatórias, Análise de impactos regulatórios, Participação social
+* Desafios na implementação – por que?
+  * Tese da ossificação (McGarity)
+  * Tese do comportamento estratégico (Potter)
+
+---
+
+## 
+
+---
