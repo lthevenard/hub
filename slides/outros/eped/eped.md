@@ -182,6 +182,33 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 
 <div style="margin: auto;">
 
-![w:950]
+![w:950](objective.png)
 
 </div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](type.png)
+
+</div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](type_objective.png)
+
+</div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](type_objective_norms.jpg)
+
+</div>
+
+---
+
