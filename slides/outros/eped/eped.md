@@ -149,8 +149,13 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 * **Consequências observáveis**:
   - Variabilidade nas práticas procedimentais das agências.
   - Processos com maior risco de falhas (polêmicos) serão mais contolados.
-  * Objetivo: identificar indícios iniciais da primeira consequência na PS.
+  * **Objetivo**: identificar indícios iniciais da primeira consequência na PS.
 
 ---
 
 ## Recorte
+* Agências reguladoras independentes de transportes em nível federal: ANTT, ANTAC, ANAC
+* Participação Social
+  - Consultas e audiências públicas
+  - Regimes muito similares ()
+  - Existem ças relevantes intra e entre as agências?
