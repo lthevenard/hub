@@ -236,3 +236,8 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 
 ---
 
+## Conclusões
+- Evidências interessantes de diferenças substanciais entre as práticas de participação social das agências de transportes.
+* Apenas um primeiro passo de uma necessária linha de pesquisa:
+  - Análise qualitativa para aprofundar a compreensão das diferenças.
+  - 
