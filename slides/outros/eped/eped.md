@@ -212,3 +212,27 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 
 ---
 
+<div style="margin: auto;">
+
+![w:950](prep_time.png)
+
+</div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](resp_time.png)
+
+</div>
+
+---
+
+<div style="margin: auto;">
+
+![w:950](resp_time_objective.png)
+
+</div>
+
+---
+
