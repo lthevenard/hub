@@ -141,6 +141,7 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 
 ---
 
-## 
+## Tese do comportamento estratégico 
+- 
 
 ---
