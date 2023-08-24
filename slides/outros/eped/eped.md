@@ -182,6 +182,6 @@ footer: lucas.gomes@fgv.br | EPED, 24/08/2023
 
 <div style="margin: auto;">
 
-![w:950](total.png)
+![w:950]
 
 </div>
