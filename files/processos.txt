@@ -1,0 +1,18 @@
+2019.491429: Recurso Extraordinário, 85, regular
+2020.714034: Habeas Corpus, 102, prorrogação
+2015.695102: Agravo de Instrumento, 203, para julgamento
+2012.628045: Mandado de Segurança, 172, prorrogação
+2014.465273: Mandado de Injunção, 30, regular
+2018.183729: Ação Declaratória de Constitucionalidade, 181, para julgamento
+2019.445901: Ação de Descumprimento de Preceito Fundamental, 58, regular
+2022.994019: Ação Direta de Inconstitucionalidade, 97, prorrogação
+2013.017829: Habeas Corpus, 45, regular
+2019.977328: Mandado de Injunção, 91, prorrogação
+2021.665748: Recurso Extraordinário, 82, regular
+2018.098783: Recurso Extraordinário, 220, para julgamento
+2016.765904: Mandado de Segurança, 110, prorrogação
+2016.798632: Habeas Corpus, 25, regular
+2015.008937: Mandado de Segurança, 56, regular
+2019.119736: Ação Direta de Inconstitucionalidade, 197, para julgamento
+2022.867563: Recurso Extraordinário, 20, regular
+2021.545432: Recurso Extraordinário, 213, para julgamento
