@@ -359,5 +359,77 @@ footer: lucas.gomes@fgv.br | 01/04/2024
 
 ---
 
-## SR -  Prudential regulation (cont)
+## SR -  Governance regulation
 
+- **Firm**: “Corporate governance”
+  * rules about executive compensation, board structure, and directors’ duties for financial firms
+    - PS. Corporate governance has implications for financial stability (incentives regarding trading behavior)
+  * specific rules for mergers and acquisitions
+    - PS. Acquisitions in the financial sector affect both competition and financial stability
+
+---
+
+## SR - Insurance
+
+* **User**: investor/depositor insurance regimes
+* **Firms**:
+  - Lander of Last Resort (LOLR)
+    - Central Bank provides emergency liquidity assistance (cash)
+    - Central Bank restructures the balance sheets of entities, landing against inferior collateral (asset insurance)
+* **Sector**:
+  - Lander of Last Resort (LOLR)
+  - Bail-Outs (form of ‘capital insurance’ for financial firms, taxpayer effectively insures investors in the troubled firm)
+
+---
+
+## SR - Resolution
+
+- **Firm**: Act more quickly and effectively than ordinary insolvency law so as to avoid loss of value in the event of bank failure
+  - Introduces private capital to troubled firms, in place of state support through:
+      * sale to a competitor (who becomes the effective insurer o liabilities),
+      * automatic reduction of liabilities (creditors take the loss).
+
+---
+
+# Let's connect it all..
+
+<div class="columns" style="grid-template-columns: auto auto auto auto; gap: 1rem;">
+
+<div>
+
+## Market Failures
+Asymetric Information
+Negative Externalities
+Public goods
+Imperfect competition
+Behavioral biases
+
+</div>
+
+<div>
+
+## Objectives
+Protecting investors/users
+Protecting consumers
+Financial stability
+Market efficiency
+Competition
+Preventing crime
+
+
+</div>
+
+<div>
+
+## Strategies
+Entry regulation
+Conduct regulation
+Information regulation
+Prudential regulation
+Governance regulation
+Insurance
+Resolution
+
+</div>
+
+</div>
