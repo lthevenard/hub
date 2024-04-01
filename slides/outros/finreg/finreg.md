@@ -130,11 +130,10 @@ header: Strategies of Financial Regulation
 footer: lucas.gomes@fgv.br | 01/04/2024
 -->
 
-## Monitor Regulatório
-- Pipeline de dados
-- Limitações técnicas e modelo alternativo
-- Estágio Atual
-- Equipe, proposta de expansão
+## Today's class
+- Market failures (review)
+- Objectives of FinReg (review)
+- **Strategies of FinReg**
 
 ---
 
