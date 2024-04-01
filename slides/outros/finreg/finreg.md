@@ -354,6 +354,7 @@ footer: lucas.gomes@fgv.br | 01/04/2024
 - **Sector**: macroprudential regulation
   - **Logic**: Interconnectedness of firms’ assets and liabilities  affect the stability of the system as a whole
     - Post-2008: previous approach was not enough
+    - New Basel recommendations
   - **Instruments**: restrictions on firms, classes of firm, or whole sectors, according to how investment strategies inter-relate
 
 ---
