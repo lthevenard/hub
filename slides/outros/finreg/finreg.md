@@ -267,3 +267,40 @@ footer: lucas.gomes@fgv.br | 01/04/2024
 
 ---
 
+## OR - Preventing financial crime
+
+- use of financial services by criminal organizations (money laundering, terrorist financing);
+- payments designed to influence a decision-maker improperly (bribery, corruption);
+- payments associated with trade in prohibited goods (such as slavery, weapons, endangered species);
+- use of the financial system to hide assets from tax authorities and creditors.
+
+---
+
+## OR - Other Objectives?
+
+- Many other objectives may be found
+- In general they relate to the main economic purposes of the financial system: leveraging economic resources and transferring excess of capital to foster new economic activity.
+* **Regulatory objective function**: goals in tension, how to prioritize?
+
+---
+
+## Strategies of financial regulation
+
+* Entry regulation
+* Conduct regulation
+* Information regulation
+* Prudential regulation
+* Governance regulation
+* Insurance
+* Resolution
+
+---
+
+<div style="margin: auto;">
+
+![w:800](table.png)
+
+</div>
+
+---
+
