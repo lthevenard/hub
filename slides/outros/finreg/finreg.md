@@ -304,3 +304,59 @@ footer: lucas.gomes@fgv.br | 01/04/2024
 
 ---
 
+## SR - Entry regulation
+* **User**: restrictions on participation on specific transactions (only “sophisticated” investors)
+- **Firm**:
+  - **Licencing**: regulators must grant prior approval (under certain conditions)
+  - **Qualification requirements**: including identity of owners (to weed out fraud)
+  - **Product regulation**: restrictions on contractual terms and products offered
+  - **Structural restrictions**: limitations on scope and activities, to reduce systemic risk, such as separation of commercial and investment banking
+* **Sector**: Market power considerations (because of potential barriers to entry)
+
+---
+
+## SR - Conduct regulation
+
+* **User**: trading rules, restricting manipulating the market and leveraging insider information
+* **Firm**:
+  - **Trading restrictions**: again, rules to prevent market manipulation and usage of insider information
+  * **Conduct of business**: very important, they establish a basis for business practices relating to:
+    - dealing with clients (marketing, advertising, and sales techniques);
+    - handling client’s assets (custody segregation requirements);
+    - management of conflicts of interest by financial firms.
+
+---
+
+## SR -  Information regulation
+
+* **User**: recipient of educational content (financial education)
+* **Firm**: various forms of disclosure regulation
+    - mandatory pre-contractual disclosure;
+    - periodic, and event-driven disclosure requirements on issuers of securities;
+    - obligations on financial firms to report details of their balance sheets and investment strategies to regulators.
+
+---
+
+## SR -  Prudential regulation
+
+* **Definition**: Restrictions on how financial firms shall manage their assets and liabilities in order to constrain risk.
+* **Firms**:
+    * minimum level of assets (in relation to liabilities)
+    * requirement that a certain proportion of asset holdings must be liquid
+    * direct restrictions on the riskiness of investment and insurance firms’ asset portfolios
+        - prohibitions on the purchase of particular asset classes
+        - procedural obligations regarding portfolio management and risk allocation
+
+---
+
+## SR -  Prudential regulation (cont)
+
+- **Sector**: macroprudential regulation
+  - **Logic**: Interconnectedness of firms’ assets and liabilities  affect the stability of the system as a whole
+    - Post-2008: previous approach was not enough
+  - **Instruments**: restrictions on firms, classes of firm, or whole sectors, according to how investment strategies inter-relate
+
+---
+
+## SR -  Prudential regulation (cont)
+
