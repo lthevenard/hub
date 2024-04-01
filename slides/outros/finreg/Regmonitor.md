@@ -119,15 +119,15 @@ td.player1 {
 
 ![bg](section_bg.png)
 
-# Monitor Regulatório 
-**Regulação em Números**
+# Strategies of Financial Regulation 
+**Financial Regulation**
 Lucas Thevenard
 
 ---
 <!-- 
 paginate: true 
-header: Monitor Regulatório
-footer: lucas.gomes@fgv.br | 14/06/2023
+header: Strategies of Financial Regulation
+footer: lucas.gomes@fgv.br | 01/04/2024
 -->
 
 ## Monitor Regulatório
@@ -138,71 +138,3 @@ footer: lucas.gomes@fgv.br | 14/06/2023
 
 ---
 
-### Pipeline de dados
-
-<div style="margin: auto;">
-
-![w:800](pipeline.001.png)
-
-</div>
-
----
-
-## Limitações técnicas do Monitor Regulatório
-- **Dependência de dados e sistemas externos**
-  - interrupção da disponibilidade ou acessibilidade
-  - mudanças dos canais de acesso
-* **Taxa de atualização**
-  - Inclusão de novas normas
-  - Atualização dos dados das normas (exemplo: vigência)
-
----
-
-
-### Informações sobre atualização na plataforma
-
-<div style="margin: auto;">
-
-![w:800](Picture1.png)
-
-</div>
-
----
-
-## Limitações técnicas do Monitor Regulatório
-- **Dependência de dados e sistemas externos**
-  - interrupção da disponibilidade ou acessibilidade
-  - mudanças dos canais de acesso
-- **Taxa de atualização**
-  - Inclusão de novas normas
-  - Atualização dos dados das normas (exemplo: vigência)
-* **Coerência e escopo temático**
-  - Coerência das informações prestadas
-  - Escopo temático: complexidade cresce com o número de fontes de dados.
-
----
-
-## Alternativa ao modelo proposto
-- Expansão das bases mediante parcerias.
-- Menores custos, menos autonomia.
-  - Resolveria o problema da dependência externa?
-  - Resolveria o problema da taxa de atualização?
-  - Resolveria o problema da coerência e escopo temático?
-
----
-
-## Estágio atual
-- 6 agências coletadas.
-- Mais de 50.000 atos normativos na base.
-- Plataforma em versão preliminar de teste: 
-  - [RegMonitor](https://lthevenard.shinyapps.io/monitor_regulatorio/)
-
----
-
-## Equipe
-- Lucas (Regnum) + José Luiz e Camila Lopes (CTS)
-- Necessidade de um programador dedicado.
-  - Suporte, melhorias, desenvolvimento continuado.
-  - Outras demandas do RegNum
-    - Estruturação das bases de dados.
-    - Suporte para gráficos, coletas de dados, etc.
