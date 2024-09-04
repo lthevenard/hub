@@ -106,8 +106,8 @@ footer: lucas.gomes@fgv.br | 2024
 
 ## Um exemplo simples
 - Vamos começar com um exemplo intuitivo: a relação entre o tamanho e o peso de vários peixes da mesma espécie.
-- No gráfico ao lado, cada ponto representa as medições de um peixe diferente. O eixo x indica o tamanho do peixo e o eixo y indica o seu peso.
-- **Que tipo de relação está sendo evidenciada no gráfico?**
+- No gráfico ao lado, cada ponto representa as medições de um peixe diferente. O eixo x indica o tamanho do peixe e o eixo y indica o seu peso.
+- **Partindo do gráfico, qual você diria que é a relação entre o tamanho e o peso dos peixes?**
 
 </div>
 
@@ -127,7 +127,7 @@ footer: lucas.gomes@fgv.br | 2024
 <div>
 
 ## Tendência linear
-- Podemos usar uma linha para tentar "resumir" a relação entre essas variáveis que, como podemos ver, é uma relação crescente (quanto maior a altura do peixe, maior tende a ser seu peso).
+- Podemos usar uma linha para tentar "resumir" a relação entre essas variáveis que, como podemos ver, é uma relação crescente (quanto maior o tamanho do peixe, maior tende a ser seu peso).
 - No gráfico ao lado, traçamos a linha de forma a minimizar as distâncias entre os pontos (nossas medições reais) e a nossa linha (que tenta capturar a tendência dos pontos).
 
 
@@ -150,7 +150,7 @@ footer: lucas.gomes@fgv.br | 2024
 
 ## Temos um modelo!
 - Vamos supor que um novo peixe aparece e sabemos que ele mede 60 cm, mas não sabemos qual é o seu peso. 
-- Podemos usar o que aprendemos para estimar o peso provável desse peixe! Basta verificar a qual peso a nossa reta associa o tamanho que medidos. Neste exemplo, o peso provável do peixe seria 1,25 kg.
+- Podemos usar o que aprendemos para estimar o peso provável desse peixe! Basta verificar a qual peso a nossa reta associa o tamanho que medimos. Neste exemplo, o peso provável do peixe seria 1,25 kg.
 
 
 </div>
