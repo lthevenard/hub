@@ -195,7 +195,7 @@ footer: lucas.gomes@fgv.br | 2024
 
 ## A reta é o nosso modelo!
 - A reta que traçamos é uma função, ela recebe valores da variável explicativa e fornece uma previsão para a variável de resposta.
-- O que chamamos de modelo, nesse caso, será simplesmente a equação dessa reta. Ela nos fornece uma forma simples de estimar um valor para a variável dependente a partir da variável independente.
+- O que chamamos de modelo, nesse caso, será simplesmente a equação dessa reta. Ela nos fornece uma forma simples de estimar um valor da variável dependente a partir da variável independente.
 
 
 </div>
@@ -217,7 +217,7 @@ footer: lucas.gomes@fgv.br | 2024
 
 ## A reta é o nosso modelo!
 - A reta que traçamos é uma função, ela recebe valores da variável explicativa e fornece uma previsão para a variável de resposta.
-- O que chamamos de modelo, nesse caso, será simplesmente a equação dessa reta. Ela nos fornece uma forma simples de estimar um valor para a variável dependente a partir da variável independente.
+- O que chamamos de modelo, nesse caso, será simplesmente a equação dessa reta. Ela nos fornece uma forma simples de estimar um valor da variável dependente a partir da variável independente.
 
 
 </div>
@@ -235,7 +235,7 @@ footer: lucas.gomes@fgv.br | 2024
 
 ## Equação da reta
 
-Se o nosso modelo é a reta (ou melhor, a equação da reta), vamos ver em um pouco mais de detalhes quais são as componentes desse modelo. Toda reta pode ser descrita por uma equação como a equação assim:
+Se o nosso modelo é a reta (ou melhor, a equação da reta), vamos ver em um pouco mais de detalhes quais são as suas componentes. Toda reta pode ser descrita por uma equação como esta:
 
 <br>
 
@@ -243,7 +243,7 @@ $$y = I + \beta x$$
 
 <br>
 
-em que $I$ é o **intercepto** da reta no eixo y e $\beta$ é o **coeficiente linear**, que determina a inclinação da reta. Esse coeficiente, em particular, é muito relevante, poir ele dimensiona quanto a variável dependente ($y$) varia a medida que a variável independente ($x$) varia. Em modelos lineares essa relação pode ser descrita como um único coeficiente.
+em que $I$ é o **intercepto** da reta no eixo y e $\beta$ é o **coeficiente linear**, que determina a inclinação da reta. Esse coeficiente, em particular, é muito relevante, pois ele dimensiona quanto a variável dependente ($y$) é impactada à medida que a variável independente ($x$) varia. Por exemplo, na equação acima, se $\beta = 2$, então a cada 1 unidade a mais de x, y crescerá em 2 unidades.
 
 ---
 
@@ -251,7 +251,7 @@ em que $I$ é o **intercepto** da reta no eixo y e $\beta$ é o **coeficiente li
 
 O modelo linear que vimos aqui é o mais simples, pois ele utiliza apenas uma variável independente para prever a variável de resposta. Chamamos esse tipo de modelo de **regressão linear simples**. Mas, existem também a **regressão linear múltipla**, que utiliza várias variáveis independentes. Nesse caso, além do intercepto, precisaremos estipular um coeficiente linear para cada variável independente. Para $n$ variáveis:
 
-<br>
+<br><br>
 
 $$y = I + \beta_1 x_1 + \beta_2 x_2 + \beta_3 x_3 + ...+ \beta_n x_n$$
 
