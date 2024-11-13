@@ -135,6 +135,17 @@ footer: lucas.gomes@fgv.br | 25/11/2024
 - Com tudo o mais mantido constante
 
 ---
+
+## Primeiro importante resultado: eficiência dos mercados competitivos
+* Mercado
+  * Um mercado é um grupo de compradores e vendedores de determinado bem ou serviço
+* Compradores
+  * Como grupo, determinam a demanda pelo produto
+* Vendedores
+  * Como grupo, determinam a oferta do produto
+
+---
+
 ## Equilíbrio de mercado
 * Equilíbrio
   * Situação na qual o preço do mercado atingiu o nível em que a quantidade ofertada é igual à quantidade demandada
@@ -168,76 +179,6 @@ header: Aula 2 - A eficiência dos mercados competitivos
 footer: lucas.gomes@fgv.br | 25/11/2024
 -->
 
-## Equilíbrio de mercado
-* Mercados em desequilíbrio 
-  * Quando o preço de mercado está abaixo ou acima do preço de equilíbrio, tem-se um mercado em desequilíbrio
-  * Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta; quando o preço de mercado está abaixo do preço de equilíbrio, há um excesso de demanda
-    * Dada a situação, a tendência é que haja um ajuste de preço para que o preço de equilíbrio seja atingido
-
----
-
-## Equilíbrio de mercado
-
-* Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta; quando o preço de mercado está abaixo do preço de equilíbrio, há um excesso de demanda
-  * Dada a situação, a tendência é que haja um ajuste de preço para que o preço de equilíbrio seja atingido
-   
----
-
-## Equilíbrio de mercado
-* Lei da oferta e da demanda: o preço de qualquer bem se ajusta para trazer a quantidade ofertada e a quantidade demandada desse bem para o equilíbrio
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado
-  * Um mercado é um grupo de compradores e vendedores de determinado bem ou serviço
-* Compradores
-  * Como grupo, determinam a demanda pelo produto
-* Vendedores
-  * Como grupo, determinam a oferta do produto
-
----
-
-  ## Eficiência dos mercados competitivos
-  * Mercado competitivo
-    * Mercado em que há tantos compradores e vendedores que cada um deles tem impacto insignificante sobre o preço do mercado
-  * Exemplos de mercado competitivo
-    - Mercado da soja
-    - Mercado do petróleo
-    - Mercado do milho
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado competitivo
-  * Para alcançar essa forma de competição um mercado deve apresentar duas características:
-    * os bens oferecidos para venda são todos iguais
-    * os compradores e vendedores são tão numerosos que nenhum é capaz de, individualmente, influenciar o preço do mercado
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado competitivo
-  * Compradores e vendedores são **tomadores de preço** 
-    * Precisam aceitar o preço que o mercado determina
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado de competição imperfeita
-  - Monopólio
-  - Competição monopolística
-  - Oligopólio
-
----
-
-## Eficiência dos mercados competitivos
-- Eficiência
-  * A propriedade da alocação de um recurso de maximizar o excedente total recebido por todos os membros da sociedade
-    * Se uma alocação de recursos maximiza o excedente total, dizemos que tem eficiência
-    * Se uma alocação não é eficiente, parte dos ganhos potenciais do comércio entre compradores e vendedores não está sendo obtida
-
----
 
 ## Curva de demanda
 * Quantidade demandada
@@ -309,6 +250,103 @@ paginate: true
 header: Aula 2 - A eficiência dos mercados competitivos
 footer: lucas.gomes@fgv.br | 25/11/2024
 -->
+
+## Equilíbrio de mercado
+* Mercados em desequilíbrio 
+  * Quando o preço de mercado está abaixo ou acima do preço de equilíbrio, tem-se um mercado em desequilíbrio
+  * Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta; quando o preço de mercado está abaixo do preço de equilíbrio, há um excesso de demanda
+    * Dada a situação, a tendência é que haja um ajuste de preço para que o preço de equilíbrio seja atingido
+
+---
+
+## Equilíbrio de mercado
+
+* Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta; quando o preço de mercado está abaixo do preço de equilíbrio, há um excesso de demanda
+  * Dada a situação, a tendência é que haja um ajuste de preço para que o preço de equilíbrio seja atingido
+   
+---
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](LLM008.jpeg)
+
+</div>
+
+---
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](LLM009.jpeg)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+
+## Equilíbrio de mercado
+* Lei da oferta e da demanda: o preço de qualquer bem se ajusta para trazer a quantidade ofertada e a quantidade demandada desse bem para o equilíbrio
+
+---
+
+  ## Eficiência dos mercados competitivos
+  * Mercado competitivo
+    * Mercado em que há tantos compradores e vendedores que cada um deles tem impacto insignificante sobre o preço do mercado
+  * Exemplos de mercado competitivo
+    - Mercado da soja
+    - Mercado do petróleo
+    - Mercado do milho
+
+---
+
+## Eficiência dos mercados competitivos
+* Mercado competitivo
+  * Para alcançar essa forma de competição um mercado deve apresentar duas características:
+    * os bens oferecidos para venda são todos iguais
+    * os compradores e vendedores são tão numerosos que nenhum é capaz de, individualmente, influenciar o preço do mercado
+
+---
+
+## Eficiência dos mercados competitivos
+* Mercado competitivo
+  * Compradores e vendedores são **tomadores de preço** 
+    * Precisam aceitar o preço que o mercado determina
+
+---
+
+## Eficiência dos mercados competitivos
+* Mercado de competição imperfeita
+  - Monopólio
+  - Competição monopolística
+  - Oligopólio
+
+---
+
+## Eficiência dos mercados competitivos
+- Eficiência
+  * A propriedade da alocação de um recurso de maximizar o excedente total recebido por todos os membros da sociedade
+    * Se uma alocação de recursos maximiza o excedente total, dizemos que tem eficiência
+    * Se uma alocação não é eficiente, parte dos ganhos potenciais do comércio entre compradores e vendedores não está sendo obtida
+
+---
+
+### Excedente do produtor e do consumidor
+
+---
 
 ## Elasticidade das curvas de oferta e de demanda
 * Elasticidade é uma medida de resposta da quantidade demandada ou da quantidade ofertada a uma variação em um de seus determinantes
