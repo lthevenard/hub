@@ -136,23 +136,26 @@ footer: lucas.gomes@fgv.br | 25/11/2024
 
 ---
 
-## Primeiro importante resultado: eficiência dos mercados competitivos
-* Mercado
-  * Um mercado é um grupo de compradores e vendedores de determinado bem ou serviço
-* Compradores
-  * Como grupo, determinam a demanda pelo produto
-* Vendedores
-  * Como grupo, determinam a oferta do produto
+## Mercado
+  - Um mercado é um grupo de compradores e vendedores de determinado bem ou serviço
+  - **Compradores**
+    - Como grupo, determinam a demanda pelo produto
+  - **Vendedores**
+    - Como grupo, determinam a oferta do produto
 
 ---
 
-## Equilíbrio de mercado
-* Equilíbrio
-  * Situação na qual o preço do mercado atingiu o nível em que a quantidade ofertada é igual à quantidade demandada
+<div style="margin:auto; font-size:150%">
 
-* Quando as curvas de oferta e de demanda são justapostas, há intersecção em um ponto
-  * O preço nessa intersecção é o preço de equilíbrio
-    * Preço de equilíbrio: o que iguala a quantidade ofertada e a quantidade demandada
+# Demanda
+
+</div>
+
+---
+
+## Curva de demanda
+- **Quantidade demandada**
+  - Quantidade de um bem que os compradores desejam e podem comprar
 
 ---
 
@@ -167,7 +170,7 @@ footer: ''
 
 <div style="margin: auto;">
 
-![w:600](LLM007.jpeg)
+![w:600](1_demanda.png)
 
 </div>
 
@@ -178,21 +181,15 @@ paginate: true
 header: Aula 2 - A eficiência dos mercados competitivos
 footer: lucas.gomes@fgv.br | 25/11/2024
 -->
-
 
 ## Curva de demanda
-* Quantidade demandada
-  * Quantidade de um bem que os compradores desejam e podem comprar
-* Lei da demanda: com tudo o mais mantido constante, quando o preço de um bem aumenta, a quantidade demandada diminui; quando o preço diminui, a quantidade demandada do bem aumenta
+- **Quantidade demandada**
+  - Quantidade de um bem que os compradores desejam e podem comprar
+- **Lei da demanda**: com tudo o mais mantido constante, quando o preço de um bem aumenta, a quantidade demandada diminui; quando o preço diminui, a quantidade demandada do bem aumenta.
 
 ---
 
-## Curva de demanda
-* Curva de demanda
-  * Gráfico da relação entre o preço de um bem e a quantidade demandada
-    * A inclinação da curva de demanda é voltada para baixo porque, com tudo o mais mantido constante, um preço mais baixo significa uma quantidade demandada maior
-
----
+![bg](nofooter_bg.png)
 
 <!-- 
 header: ''
@@ -203,7 +200,7 @@ footer: ''
 
 <div style="margin: auto;">
 
-![w:600](LLM001.jpeg)
+![w:600](2_demanda_deslocamento_ao_longo.png)
 
 </div>
 
@@ -215,20 +212,326 @@ header: Aula 2 - A eficiência dos mercados competitivos
 footer: lucas.gomes@fgv.br | 25/11/2024
 -->
 
+
+## Expansão da Demanda (Deslocamento para a Direita):
+- **Aumento na Renda dos Consumidores:**
+  - Ex.: Aumento do salário mínimo impulsiona a demanda por bens normais, como roupas e eletrônicos.
+- **Mudança nas Preferências:**
+  - Ex.: Popularização de alimentos orgânicos eleva sua demanda.
+- **Expectativa de Preço Futuro Mais Alto:**
+  - Ex.: Consumidores compram um carro esperando que os preços subam.
+- **Aumento do preço de um bem substituto ou redução do preço de um bem complementar:**
+  - Ex.: Carne se o preço do frango cai, ou manteiga se o preço do pão sobe.
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](3_demanda_expansao_sem_guias.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](4_demanda_expansao_com_guias.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+
+## Retração da Demanda (Deslocamento para a Esquerda):
+- **Redução na Renda dos Consumidores:**
+  - Ex.: Crises econômicas diminuem a demanda por bens de luxo, como joias.
+- **Mudança nas Preferências:**
+  - Ex.: Campanhas contra o uso de plástico reduzem a demanda por descartáveis.
+- **Expectativa de Preço Futuro Mais Baixo:**
+  - Ex.: Consumidores adiam compras esperando promoções na Black Friday.
+- **Redução do preço de um bem substituto ou aumento do preço de um bem complementar:**
+  - Ex.: Carne se o preço do frango cai, ou manteiga se o preço do pão sobe.
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](5_demanda_retracao_sem_guias.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](6_demanda_retracao_com_guias.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Relação entre Renda e Demanda
+
+**Bens Normais**
+- A demanda por **bens normais** aumenta conforme a renda dos consumidores cresce.
+  - **Exemplos:**
+    - Eletrônicos (smartphones, laptops).
+    - Roupas de marcas reconhecidas.
+- **Características:**
+  - Relacionamento direto com a renda.
+  - Maior renda → Maior consumo.
+
+---
+
+## Relação entre Renda e Demanda
+
+**Bens Superiores (ou de Luxo)**
+- Um tipo de bem normal cuja demanda cresce proporcionalmente mais do que o aumento da renda.
+  - **Exemplos:**
+    - Viagens internacionais.
+    - Joias e itens exclusivos.
+- **Características:**
+  - Elasticidade renda da demanda > 1.
+  - Consumo altamente dependente do aumento de renda.
+
+---
+
+## Relação entre Renda e Demanda
+
+**Bens Inferiores**
+- A demanda por **bens inferiores** diminui à medida que a renda dos consumidores aumenta.
+  - **Exemplos:**
+    - Alimentos básicos de menor qualidade (como macarrão instantâneo).
+    - Transporte público em relação a carros próprios.
+- **Características:**
+  - Relacionamento inverso com a renda.
+  - Maior renda → Menor consumo.
+
+---
+
+## Relação entre Renda e Demanda
+
+**Bens de Necessidade**
+- Produtos cuja demanda é relativamente estável, independentemente de mudanças significativas na renda.
+  - **Exemplos:**
+    - Água.
+    - Energia elétrica.
+    - Alimentos básicos de consumo diário (arroz, feijão).
+- **Características:**
+  - Elasticidade renda da demanda ≈ 0 (ou muito baixa).
+  - Consumo é menos sensível às variações de renda.
+
+---
+## Relação entre Renda e Demanda
+
+**Resumindo:**
+- Quando a renda aumenta:
+  - **Bens normais e de luxo**: Aumentam a demanda.
+  - **Bens inferiores**: Diminuem a demanda.
+  - **Bens de necessidade**: Pouco impacto na demanda.
+
+---
+
+## Elasticidade-preço da demanda
+- Elasticidade é uma medida de resposta da quantidade demandada a mudanças nas variáveis do que afetam a quantidade demandada. Neste caso, estamos analisando o preço, então falamos em **elasticidade-preço da demanda**.
+  * É uma medida da 'sensibilidade' dos consumidores a variações no preço.
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](6a0_elasticidade_demanda.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](6a1_elasticidade_demanda_in.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](6a2_elasticidade_demanda_el.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Fatores que afetam a elasticidade da demanda
+
+**1. Disponibilidade de Substitutos Próximos**
+- Quanto mais substitutos disponíveis, maior a elasticidade.
+  - Ex.: Refrigerantes têm alta elasticidade porque há muitas marcas e sabores substituíveis.
+  - Ex.: Remédios essenciais possuem baixa elasticidade devido à falta de alternativas.
+
+---
+
+## Fatores que afetam a elasticidade da demanda
+
+**2. Proporção da Renda Gasta no Bem**
+- Bens que representam uma grande parte do orçamento tendem a ser mais elásticos.
+  - Ex.: Eletrônicos de alto custo (maior elasticidade).
+  - Ex.: Sal (menor elasticidade, pois representa uma fração mínima da renda).
+
+---
+
+## Fatores que afetam a elasticidade da demanda
+
+**3. Necessidade do Bem**
+- Bens essenciais tendem a ter demanda inelástica.
+  - Ex.: Medicamentos de uso contínuo possuem baixa elasticidade.
+  - Ex.: Produtos de luxo, como joias, apresentam maior elasticidade.
+
+---
+
+## Fatores que afetam a elasticidade da demanda
+
+**4. Horizonte Temporal**
+- A elasticidade tende a ser maior no longo prazo.
+  - Ex.: Aumento no preço da gasolina pode não afetar o consumo imediatamente, mas no longo prazo os consumidores podem buscar alternativas (veículos elétricos, transporte público).
+
+---
+
+## Fatores que afetam a elasticidade da demanda
+
+**5. Hábitos e Preferências dos Consumidores**
+- Produtos com forte apego emocional ou cultural têm demanda menos elástica.
+  - Ex.: Café em algumas culturas tem baixa elasticidade.
+  - Ex.: Produtos de moda podem apresentar elasticidade maior devido às tendências.
+
+---
+
+<div style="margin:auto; font-size:150%">
+
+# Oferta
+
+</div>
+
+---
 
 ## Curva de oferta
-* Quantidade ofertada
-  * Quantidade de um bem que os vendedores estão dispostos e aptos a vender
-* Lei da oferta: com tudo o mais mantido constante, quando o preço de um bem aumenta, a quantidade ofertada desse bem também aumenta; quando o preço de um bem cai, a quantidade ofertada desse bem também cai
+- Quantidade ofertada
+  - Quantidade de um bem que os vendedores estão dispostos e aptos a vender.
 
 ---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](7_oferta.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
 
 ## Curva de oferta
-* Curva de oferta
-  * Gráfico da relação entre o preço de um bem e a quantidade ofertada
-    * A inclinação da curva de oferta é voltada para cima porque, com tudo o mais mantido constante, um preço maior significa uma quantidade ofertada maior
+- Quantidade ofertada
+  - Quantidade de um bem que os vendedores estão dispostos e aptos a vender.
+- **Lei da oferta**: com tudo o mais mantido constante, quando o preço de um bem aumenta, a quantidade ofertada desse bem também aumenta; quando o preço de um bem cai, a quantidade ofertada desse bem também cai
 
 ---
+
+![bg](nofooter_bg.png)
 
 <!-- 
 header: ''
@@ -239,53 +542,7 @@ footer: ''
 
 <div style="margin: auto;">
 
-![w:600](LLM004.jpeg)
-
-</div>
-
----
-
-<!-- 
-paginate: true 
-header: Aula 2 - A eficiência dos mercados competitivos
-footer: lucas.gomes@fgv.br | 25/11/2024
--->
-
-## Equilíbrio de mercado
-* Mercados em desequilíbrio 
-  * Quando o preço de mercado está abaixo ou acima do preço de equilíbrio, tem-se um mercado em desequilíbrio
-  * Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta; quando o preço de mercado está abaixo do preço de equilíbrio, há um excesso de demanda
-    * Dada a situação, a tendência é que haja um ajuste de preço para que o preço de equilíbrio seja atingido
-
----
-
-## Equilíbrio de mercado
-
-* Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta; quando o preço de mercado está abaixo do preço de equilíbrio, há um excesso de demanda
-  * Dada a situação, a tendência é que haja um ajuste de preço para que o preço de equilíbrio seja atingido
-   
----
-
-<!-- 
-header: ''
-footer: ''
--->
-
-<br>
-
-<div style="margin: auto;">
-
-![w:600](LLM008.jpeg)
-
-</div>
-
----
-
-<br>
-
-<div style="margin: auto;">
-
-![w:600](LLM009.jpeg)
+![w:600](8_oferta_deslocamento_ao_longo.png)
 
 </div>
 
@@ -298,87 +555,19 @@ footer: lucas.gomes@fgv.br | 25/11/2024
 -->
 
 
-## Equilíbrio de mercado
-* Lei da oferta e da demanda: o preço de qualquer bem se ajusta para trazer a quantidade ofertada e a quantidade demandada desse bem para o equilíbrio
+## Expansão da Oferta (Deslocamento para a Direita):
+- **Redução nos Custos de Produção:**
+  - Ex.: Fatores técnicos reduzem a necessidade de insumos, ou eles se tornam mais baratos, reduzindo o custo do processo produtivo.
+- **Melhoria na Tecnologia:**
+  - Ex.: Desenvolvimento de máquinas eleva a produtividade agrícola.
+- **Subvenções ou Incentivos Governamentais:**
+  - Ex.: Subsídios para a produção de energia solar aumentam a oferta desse recurso.
+- **Condições Climáticas Favoráveis:**
+  - Ex.: Safras recordes devido ao clima ideal aumentam a oferta de grãos.
 
 ---
 
-  ## Eficiência dos mercados competitivos
-  * Mercado competitivo
-    * Mercado em que há tantos compradores e vendedores que cada um deles tem impacto insignificante sobre o preço do mercado
-  * Exemplos de mercado competitivo
-    - Mercado da soja
-    - Mercado do petróleo
-    - Mercado do milho
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado competitivo
-  * Para alcançar essa forma de competição um mercado deve apresentar duas características:
-    * os bens oferecidos para venda são todos iguais
-    * os compradores e vendedores são tão numerosos que nenhum é capaz de, individualmente, influenciar o preço do mercado
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado competitivo
-  * Compradores e vendedores são **tomadores de preço** 
-    * Precisam aceitar o preço que o mercado determina
-
----
-
-## Eficiência dos mercados competitivos
-* Mercado de competição imperfeita
-  - Monopólio
-  - Competição monopolística
-  - Oligopólio
-
----
-
-## Eficiência dos mercados competitivos
-- Eficiência
-  * A propriedade da alocação de um recurso de maximizar o excedente total recebido por todos os membros da sociedade
-    * Se uma alocação de recursos maximiza o excedente total, dizemos que tem eficiência
-    * Se uma alocação não é eficiente, parte dos ganhos potenciais do comércio entre compradores e vendedores não está sendo obtida
-
----
-
-### Excedente do produtor e do consumidor
-
----
-
-## Elasticidade das curvas de oferta e de demanda
-* Elasticidade é uma medida de resposta da quantidade demandada ou da quantidade ofertada a uma variação em um de seus determinantes
-  * Medição da reação dos consumidores frente a mudanças de variáveis
-
----
-
-## Elasticidade das curvas de oferta e de demanda
-* Elasticidade preço-demanda é uma medida do quanto a quantidade demandada de um bem reage a uma mudança no preço do bem em questão, calculada como a variação percentual da quantidade demandada dividida pela variação percentual do preço
-
----
-
-## Elasticidade das curvas de oferta e de demanda
-* A demanda é considerada **elástica** se a quantidade demandada responde substancialmente a mudanças no preço
-* A demanda é considerada **inelástica** se a quantidade demandada responde pouco a mudanças no preço
-
----
-
-## Elasticidade das curvas de oferta e de demanda
-* Fatores que afetam a elasticidade
-  - Disponibilidade de substitutos próximos
-  - Bens necessários vs. bens supérfluos
-  - Definição do mercado
-  - Horizonte de tempo
-
----
-
-## Estática comparativa
-- Deslocamento ao longo da curva
-- Deslocamento da curva
-
----
+![bg](nofooter_bg.png)
 
 <!-- 
 header: ''
@@ -389,26 +578,13 @@ footer: ''
 
 <div style="margin: auto;">
 
-![w:600](LLM002.jpeg)
+![w:600](9_oferta_expansao_sem_guias.png)
 
 </div>
 
 ---
 
-<!-- 
-header: ''
-footer: ''
--->
-
-<br>
-
-<div style="margin: auto;">
-
-![w:600](LLM003.jpeg)
-
-</div>
-
----
+![bg](nofooter_bg.png)
 
 <!-- 
 header: ''
@@ -419,22 +595,7 @@ footer: ''
 
 <div style="margin: auto;">
 
-![w:600](LLM005.jpeg)
-
-</div>
-
----
-
-<!-- 
-header: ''
-footer: ''
--->
-
-<br>
-
-<div style="margin: auto;">
-
-![w:600](LLM006.jpeg)
+![w:600](10_oferta_expansao_com_guias.png)
 
 </div>
 
@@ -446,164 +607,530 @@ header: Aula 2 - A eficiência dos mercados competitivos
 footer: lucas.gomes@fgv.br | 25/11/2024
 -->
 
-## Bens substitutos e complementares
-* Bens com substitutos próximos tendem a ter demanda mais elástica porque é mais fácil para os consumidores trocá-los por outros
-  * Exemplo: manteiga e margarina
-* Bens complementares são consumidos juntos, de forma que o aumento no preço de um implica a diminuição da compra do outro
-  * Exemplo: impressora e cartucho
 
----
-## Bens substitutos e complementares
-- Cigarro & maconha (Mankiw)
-  - **Problema Regulatório**: Cigarro e maconha são bens complementares ou substitutos?
-
----
-
-## Escolha do consumidor
-* A teoria da escolha do consumidor examina os _tradeoffs_ com os quais as pessoas se deparam no papel de consumidores
-  - Quando um consumidor compra mais de um bem, tem de comprar menos de outros
-  - Quando gasta mais de sua renda no presente e poupa menos, deve aceitar um nível de renda mais baixo no futuro
+## Retração da Oferta (Deslocamento para a Esquerda):
+- **Aumento nos Custos de Produção:**
+  - Ex.: Elevação no preço do petróleo reduz a oferta de produtos derivados.
+- **Problemas na Tecnologia:**
+  - Ex.: Falhas em sistemas de transporte diminuem a oferta de produtos entregues.
+- **Tributação Elevada:**
+  - Ex.: Aumento de impostos sobre cigarros reduz sua oferta no mercado.
+- **Condições Climáticas Desfavoráveis:**
+  - Ex.: Seca severa diminui a oferta de frutas e vegetais.
 
 ---
 
-## Escolha do consumidor
-* Restrição orçamentária: o limite de combinações de consumo de bens que o consumidor pode adquirir
-  - Mostra quais combinações de bens o consumidor pode adquirir, dados a sua renda e o preço dos bens
-  - A inclinação da restrição orçamentária mede a taxa à qual o consumidor pode trocar um bem pelo outro
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](11_oferta_retracao_sem_guias.png)
+
+</div>
 
 ---
 
-## Escolha do consumidor
-* A escolha do consumidor não depende apenas da sua restrição orçamentária, mas de suas **preferências** em relação aos dois bens
-  - As preferências do consumidor lhe permitem escolher entre as combinações possíveis de consumo de bens que pode adquirir
-    - Se ao consumidor é oferecida uma série de combinações, ele vai escolher aquela que satisfaz mais suas preferências
-      - Se ambas satisfazem igualmente suas preferências, diz-se que o consumidor é **indiferente** entre as combinações.
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](12_oferta_retracao_com_guias.png)
+
+</div>
 
 ---
 
-## Escolha do consumidor
-* A representação gráfica das preferências do consumidor se dá pela **curva de indiferença**
-  - A curva de indiferença mostra as combinações de consumo que proporcionam ao consumidor o mesmo nível de satisfação
-    - A inclinação em qualquer ponto de uma curva de indiferença é igual à qual o consumidor está disposto a substituir um bem pelo outro
-      - Essa taxa é chamada **taxa marginal de substituição**
----
+## Fatores que afetam a elasticidade da oferta
 
-## Escolha do consumidor
-
+**1. Horizonte Temporal**
+- A oferta é mais elástica no longo prazo do que no curto prazo.
+  - Ex.: Uma fábrica pode expandir a produção de carros ao longo de anos, mas no curto prazo está limitada pela capacidade atual.
 
 ---
 
-## Escolha do consumidor
-* O formato de uma curva de indiferença diz sobre a disposição de um  consumidor em trocar um bem pelo outro
-  - Quando os bens são facilmente substituíveis um pelo outro, as curvas de indiferença são menos convexas
-  - Quando é difícil substituir um bem pelo outro, as curvas de indiferença são muito convexas
+## Fatores que afetam a elasticidade da oferta
+
+**2. Capacidade de Produção Ociosa**
+- Empresas com capacidade ociosa têm maior elasticidade da oferta.
+  - Ex.: Se uma fábrica está operando abaixo da capacidade, pode rapidamente aumentar a produção quando os preços sobem.
 
 ---
 
-## Escolha do consumidor
-* O ponto em que a curva de indiferença e a restrição orçamentária se tocam é chamado de **ótimo**
-  - No ponto ótimo, a inclinação da curva de indiferença é igual à inclinação da restrição orçamentária
+## Fatores que afetam a elasticidade da oferta
+
+**3. Disponibilidade de Fatores de Produção**
+- Quanto mais fácil e rápido for obter insumos, maior a elasticidade.
+  - Ex.: Produtos que dependem de recursos abundantes (como trigo em áreas férteis) tendem a ter oferta mais elástica.
+  - Ex.: Produtos que dependem de recursos raros (como metais preciosos) têm oferta inelástica.
 
 ---
 
-## Escolha do consumidor
-* Outra forma comum de representar preferências é por meio do conceito de **utilidade**
-  - Utilidade é uma medida abstrata de satisfação ou felicidade que um consumidor obtém de um conjunto de bens
-    - Um consumidor prefere um conjunto de bens a outro se o primeiro oferece mais utilidade que o segundo
+## Fatores que afetam a elasticidade da oferta
+
+**4. Facilidade de Armazenamento**
+- Bens que podem ser estocados têm oferta mais elástica.
+  - Ex.: Produtos não perecíveis, como grãos, podem ser armazenados e vendidos quando os preços aumentam.
+  - Ex.: Produtos perecíveis, como frutas frescas, possuem oferta menos elástica.
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Objetivo de uma empresa: maximizar o lucro
-  - Lucro: a receita total menos o custo total
-  - Receita total: o montante que uma empresa recebe pela venda da sua produção
-  - Custo total: o valor de mercado dos insumos que uma empresa usa na produção
+## Fatores que afetam a elasticidade da oferta
+
+**5. Mobilidade dos Fatores de Produção**
+- Se os fatores de produção podem ser rapidamente realocados, a elasticidade aumenta.
+  - Ex.: Terras que podem ser usadas para diferentes cultivos tornam a oferta agrícola mais elástica.
+  - Ex.: Máquinas especializadas reduzem a elasticidade em setores altamente específicos.
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Diferentes custos
-  - Custos explícitos: custos dos insumos que exigem desembolso de dinheiro por parte da empresa
-  - Custos implícitos: custos dos insumos que não exigem desembolso de dinheiro por parte da empresa
-  - Exemplo: farinha, ovos, batedeiras (custos explícitos de uma fábrica de bolos) e o dinheiro que alguém poderia deixar de ganhar (custo implícito, dado que a dona da fábrica poderia ganhar centenas de reais em sue emprego antigo, como advogada, com o tempo que ela agora aloca na fábrica de bolos)
+## Fatores que afetam a elasticidade da oferta
+
+**6. Natureza do Produto**
+- Produtos simples de produzir têm maior elasticidade.
+  - Ex.: Produtos manufaturados em larga escala, como camisetas, têm oferta mais elástica.
+  - Ex.: Obras de arte exclusivas têm oferta extremamente inelástica.
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Lucro: economistas e contadores medem lucro de forma diferente
-  - Lucro econômico: a receita total menos o custo total, incluído tanto os custos explícitos quanto os custos implícitos
-  - Lucro contábil: a receita total menos o custo explícito total
-- O lucro contábil tende a ser maior que o econômico
-  - Para uma empresa ser lucrativa para os economistas, ela tem que cobrir todos os custos, explícitos e implícitos
+## Fatores que afetam a elasticidade da oferta
 
----
-## Estrutura de custos e escolha da firma
-* Lucro: economistas e contadores medem lucro de forma diferente
-  - Lucro econômico: a receita total menos o custo total, incluído tanto os custos explícitos quanto os custos implícitos
-  - Lucro contábil: a receita total menos o custo explícito total
-- O lucro contábil tende a ser maior que o econômico
-  - Para uma empresa ser lucrativa para os economistas, ela tem que cobrir todos os custos, explícitos e implícitos
+**7. Regulações e Políticas Governamentais**
+- Restrições regulatórias podem diminuir a elasticidade da oferta.
+  - Ex.: Licenças ambientais podem limitar a oferta de novos empreendimentos no curto prazo.
+  - Ex.: Disponibilidade de auxílios à produção ou subsídios pode aumentar a elasticidade ao facilitar a expansão da produção.
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Custos
-  - Custo total
-  - Custo fixo
-  - Custo variável
-  - Custo marginal
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+<div style="margin:auto; font-size:150%">
+
+# Equilíbrio de Mercado
+
+</div>
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Custo fixo
-  - Custo que não varia com a quantidade produzida
-* Custo variável
-  - Custo que varia com a quantidade produzida
-* Custo marginal
-  - Aumento no custo total decorrente da produção de uma unidade adicional
+## Conceito de mercado em equilíbrio
+  - Situação na qual o preço do mercado atingiu o nível em que a quantidade ofertada é igual à quantidade demandada
+
+* Quando as curvas de oferta e de demanda são justapostas, há intersecção em um ponto e o preço nessa intersecção é o preço de equilíbrio
+  - **Preço de equilíbrio**: a oferta atende a demanda, não havendo pressões no mercado para que o preço mude.
+
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Custo total médio
-  - Custo total dividido pela quantidade produzida
-* Custo fixo médio
-  - Custo fixo dividido pela quantidade produzida
-* Custo variável médio
-  - Custos variável dividido pela quantidade produzida
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](13_equilibrio_de_mercado.png)
+
+</div>
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Decisão de paralisação
-  - Decisão de curto prazo de não produzir nada durante um determinado intervalo de tempo por causa das condições atuais do mercado
-- Decisão de saída 
-  - Decisão de longo prazo de deixar o mercado
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Mercados em desequilíbrio 
+- Quando o preço de mercado está abaixo ou acima do preço de equilíbrio, tem-se um mercado em desequilíbrio.
+- **Excesso de oferta**:
+  - Quando o preço de mercado está acima do preço de equilíbrio, tem-se um excesso de oferta.
+  - Há mais produtos ofertados no mercado do que demanda por esses produtos. Os produtores não conseguem vender o excedente e são forçados a abaixar o preço.
 
 ---
 
-## Estrutura de custos e escolha da firma
-* Paralisação e saída
-  - As decisões de curto e longo prazo diferem porque a maioria das empresas não consegue se livrar do custo fixo no curto prazo, mas pode fazê-lo no longo
-    - Uma empresa que paralisa suas atividades temporariamente continua a ter de arcar com os custos fixos, ao passo que a outra, que sai do mercado, deixa de pagar tanto os custos fixos quanto os variáveis
-  
----
+<!-- 
+header: ''
+footer: ''
+-->
 
-## Estrutura de custos e escolha da firma
-* Escolha pela paralisação das atividades
-  - Uma empresa opta por paralisar suas atividades se o preço do bem for menor do que o custo variável médio de produção
-    - Se o preço que a empresa recebe não cobrir o custo variável médio, a empresa ficará em melhor posição se suspender a produção
-      - Ela perderá dinheiro, mas perderá ainda mais se decidir continuar no mercado
+<br>
 
----
+<div style="margin: auto;">
 
-## Estrutura de custos e escolha da firma
-* A decisão da empresa de sair do mercado no longo prazo é semelhante à decisão de paralisar as atividades
-  - Se a empresa sair, perderá toda a receita da venda de seu produto, mas economizará os custos de produção, fixos e variáveis
-    - A empresa sai do mercado se a receita que obteria com o mercado for menor do que seus custos totais
+![w:600](14_equilibrio_excesso_de_oferta.png)
+
+</div>
 
 ---
 
-## Estrutura de custos e escolha da firma
-* O critério de entrada é exatamento o oposto do critério de saída
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Mercados em desequilíbrio 
+- Quando o preço de mercado está abaixo ou acima do preço de equilíbrio, tem-se um mercado em desequilíbrio.
+- **Excesso de demanda**:
+  - Quando o preço de mercado está abaixo do preço de equilíbrio, tem-se um excesso de demanda.
+  - Há menos produtos ofertados no mercado do que demanda por esses produtos. A escassez do produto eleva seu valor de mercado e os produtores tem um forte incentivo para elevar preços.
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](15_equilibrio_excesso_de_demanda.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Eficiência dos mercados de competição perfeita
+- **Mercado de competição perfeita**
+  - Compradores e vendedores são tomadores de preços.
+  - Bens são homogêneos.
+  - Não há barreiras significativas à entrada.
+* **Exemplos**:
+  - Mercado da arroz, mercado do carne, mercado do milho.
+* Dadas essas condições, o lucro (econômico) dos produtores é nulo e o mercado **maximiza o excedente** dos produtores e dos vendedores.
+
+---
+
+## Quais são os excedentes do mercado competitivo?
+
+- **Para os consumidores**: diferença entre o que os consumidores estariam dispostos a pagar pelo bem adquirido (preço de reserva) e o que de fato eles pagaram no mercado.
+- **Para os produtores**: diferença entre o preço ao qual o produtor estaria disposto a produzir certa quantidade e o preço de mercado.
+  * **Obs**: segundo a teoria econômica, em um mercado perfeitamente competitivo o lucro econômico dos produtores é nulo. Isso não significa que não há lucro contábil, apenas que a remuneração dos investimentos produtivos tende a ser equivalente risco do empreendimento e ao custo de oportunidade do capital.
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](16_excedente_do_consumidor.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](17_excedente_do_produtor.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](18_equilibrio_de_mercado.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Exemplo de intervenção ineficiente - imposição de um teto de preços
+
+- Se o governo intervém, por exemplo, estabelecendo um preço máximo que pode ser cobrado naquele mercado, como podemos usar o gráfico para entender os efeitos gerados sobre os excedentes dos consumidores e dos produtores?
+  - Vamos supor que o preço máximo é inferior ao preço de equilíbrio no livre mercado (pois do contrário a intervenção não terá efeito nenhum).
+  - O que acontecerá com as dinâmicas entre os consumidores e os produtores?
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](20_1_excedentes_com_teto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](20_2_excedentes_com_teto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](20_3_excedentes_com_teto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](20_4_excedentes_com_teto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](20_5_excedentes_com_teto.png)
+
+</div>
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Exemplo de intervenção ineficiente - taxação
+
+- Se o governo intervém, por exemplo, impondo uma taxa, como podemos usar o gráfico para entender os efeitos gerados sobre os excedentes dos consumidores e dos produtores?
+  - O que acontecerá com os incentivos dos consumidores?
+  - O que acontecerá com os incentivos dos produtores?
+  - Se há um imposto, o preço pago pelo consumidor é igual ao preço recebido pelo produtor?
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](19_1_excedentes_com_imposto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](19_2_excedentes_com_imposto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](19_3_excedentes_com_imposto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](19_4_excedentes_com_imposto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](19_5_excedentes_com_imposto.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](19_6_excedentes_com_imposto.png)
+
+</div>
+
+
+---
+
+<!-- 
+paginate: true 
+header: Aula 2 - A eficiência dos mercados competitivos
+footer: lucas.gomes@fgv.br | 25/11/2024
+-->
+
+## Aplicações práticas do que aprendemos até aqui...
+
+- **Estática comparativa** - que acontece com o preço e com a quantidade de equilíbrio quando:
+  - Há uma expansão da demanda?
+  - Há uma retração da demanda?
+  - Há uma expansão da oferta?
+  - Há uma retração da oferta?
+
+---
+
+## Relações entre os bens
+
+- Maconha e drogas ilegais são bens substitutos?
+- Por que poderia ser importante saber isso?
+* Maconha não seria um bem complementar a outras drogas?
+
+---
+
+## Combate às drogas e elasticidade
+
+- A demanda por drogas ilegais é elástica, ou inelástica?
+* Por que isso pode ser importante para definir uma política de combate às drogas?
