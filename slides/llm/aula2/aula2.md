@@ -1114,11 +1114,11 @@ footer: lucas.gomes@fgv.br | 25/11/2024
 
 ## Aplicações práticas do que aprendemos até aqui...
 
-- **Estática comparativa** - que acontece com o preço e com a quantidade de equilíbrio quando:
-  - Há uma expansão da demanda?
-  - Há uma retração da demanda?
-  - Há uma expansão da oferta?
-  - Há uma retração da oferta?
+- **Estática comparativa** - que acontece com o preço e com a quantidade de equilíbrio do:
+  * mercado de sorvete, quando ocorre o verão mais frio dos últimos 50 anos?
+  * mercado imobiliário, quando há uma crise financeira?
+  * mercado de automóveis, quando há uma aumento do preço do aço?
+  * mercado de celulares, quando uma nova tecnologia torna a fabricação de baterias recarregáveis mais barata?
 
 ---
 
@@ -1134,3 +1134,37 @@ footer: lucas.gomes@fgv.br | 25/11/2024
 
 - A demanda por drogas ilegais é elástica, ou inelástica?
 * Por que isso pode ser importante para definir uma política de combate às drogas?
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](ex_01.png)
+
+</div>
+
+---
+
+![bg](nofooter_bg.png)
+
+<!-- 
+header: ''
+footer: ''
+-->
+
+<br>
+
+<div style="margin: auto;">
+
+![w:600](ex_02.png)
+
+</div>
